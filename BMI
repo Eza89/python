@@ -12,9 +12,5 @@ def bmi(a,b):
   else:
     return ('Try again!')
 myht = float(input('Please input your height(m)): '))
-mywt = float(input('Pl
-else:
-    return ('Try again!')
-myht = float(input('Please input your height(m)): '))
 mywt = float(input('Please input your weight(kg): '))
 bmi(myht,mywt) #a= height, b=weight
